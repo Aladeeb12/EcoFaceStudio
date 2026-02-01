@@ -1,5 +1,5 @@
 streamlit
-opencv-python
+streamlit-webrtc
 mediapipe==0.10.11
 numpy
 Pillow
